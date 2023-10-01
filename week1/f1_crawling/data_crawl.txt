@@ -1,0 +1,23 @@
+pos, driver, nationality, car, pts
+1, Max Verstappen, NED, Red Bull Racing Honda RBPT, 400
+2, Sergio Perez, MEX, Red Bull Racing Honda RBPT, 223
+3, Lewis Hamilton, GBR, Mercedes, 190
+4, Fernando Alonso, ESP, Aston Martin Aramco Mercedes, 174
+5, Carlos Sainz, ESP, Ferrari, 150
+6, Charles Leclerc, MON, Ferrari, 135
+7, Lando Norris, GBR, McLaren Mercedes, 115
+8, George Russell, GBR, Mercedes, 115
+9, Oscar Piastri, AUS, McLaren Mercedes, 57
+10, Lance Stroll, CAN, Aston Martin Aramco Mercedes, 47
+11, Pierre Gasly, FRA, Alpine Renault, 46
+12, Esteban Ocon, FRA, Alpine Renault, 38
+13, Alexander Albon, THA, Williams Mercedes, 21
+14, Nico Hulkenberg, GER, Haas Ferrari, 9
+15, Valtteri Bottas, FIN, Alfa Romeo Ferrari, 6
+16, Zhou Guanyu, CHN, Alfa Romeo Ferrari, 4
+17, Yuki Tsunoda, JPN, AlphaTauri Honda RBPT, 3
+18, Kevin Magnussen, DEN, Haas Ferrari, 3
+19, Liam Lawson, NZL, AlphaTauri Honda RBPT, 2
+20, Logan Sargeant, USA, Williams Mercedes, 0
+21, Nyck De Vries, NED, AlphaTauri Honda RBPT, 0
+22, Daniel Ricciardo, AUS, AlphaTauri Honda RBPT, 0
